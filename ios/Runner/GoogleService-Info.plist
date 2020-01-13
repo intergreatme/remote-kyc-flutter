@@ -31,8 +31,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:610285399353:ios:82b3e94c3e741599ec4ce8</string>
+	<string><YOUR OWN KEY></string>
 	<key>DATABASE_URL</key>
-	<string>https://intergreatme-97c55.firebaseio.com</string>
+	<string><YOUR OWN KEY></string>
 </dict>
 </plist>
