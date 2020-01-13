@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "610285399353",
+    "firebase_url": "https://intergreatme-97c55.firebaseio.com",
+    "project_id": "intergreatme-97c55",
+    "storage_bucket": "intergreatme-97c55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610285399353:android:d9dfccb6ddbcf3ca",
+        "android_client_info": {
+          "package_name": "com.intergreatme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610285399353-qphq5s1924dk69u150ogf2dhpv70aakj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intergreatme",
+            "certificate_hash": "de28cacee7efd5ee0ca28dff7467712b82a7fc6c"
+          }
+        },
+        {
+          "client_id": "610285399353-aouio4617a4fqmoskipse8p22jf1ur3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagoC0Qx1BLdf-c9QqH_k0BMvW6MoVbMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610285399353-aouio4617a4fqmoskipse8p22jf1ur3n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610285399353-nvfpqo0f97rftb8luu5hssk0hare76c3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intergreatme.igmSelfKyc"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610285399353:android:ce15e429a730db32ec4ce8",
+        "android_client_info": {
+          "package_name": "com.intergreatme.igm_self_kyc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "610285399353-aouio4617a4fqmoskipse8p22jf1ur3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCagoC0Qx1BLdf-c9QqH_k0BMvW6MoVbMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "610285399353-aouio4617a4fqmoskipse8p22jf1ur3n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "610285399353-nvfpqo0f97rftb8luu5hssk0hare76c3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.intergreatme.igmSelfKyc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
