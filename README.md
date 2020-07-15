@@ -1,10 +1,10 @@
-# igm_self_kyc
+# IGM Remote-KYC Flutter Tutorial App
 
-An application for implementing the Intergreatme Self Know Your Customer services
+A tutorial application to demonstrate how to implement the Intergreatme Remote-KYC (Know Your Customer) UI wrapper services.
 
 ## Getting Started
 
-This project is a starting point for building your own KYC applications with Flutter.
+This project is a starting point for building your own Remote-KYC applications leveraging IGM's UI wrapper services with Flutter.
 
 A few resources to get you started if this is your first Flutter project:
 
