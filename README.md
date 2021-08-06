@@ -1,6 +1,6 @@
 # IGM Remote-KYC Flutter Tutorial App
 
-A tutorial application to demonstrate how to implement the Intergreatme Remote-KYC (Know Your Customer) UI wrapper services.
+A tutorial application to demonstrate how to implement the Intergreatme Remote-KYC (Know Your Customer) UI.
 
 ## Getting Started
 
